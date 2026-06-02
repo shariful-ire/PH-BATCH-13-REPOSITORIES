@@ -9,8 +9,11 @@ This repository contains all of my learning materials, practice tasks, conceptua
 A responsive landing page built using HTML5 and CSS3 by following the provided Figma design. The project includes a Navbar, Hero Banner, Notes Section, Second Brain Section, Early Access Section, and Footer.
 
 **🔗 Resources:** [https://www.figma.com/design/oMYH7Ccj6UU8MKZwuGiAXB/KnowledgeVault---L1?node-id=1-2&p=f&t=By2Hs0BaUSfglGif-0]
+
 **💻 Repository:** [https://github.com/shariful-ire/M-1-Assignment-01]
+
 **🌐 Live Demo:**[https://shariful-ire.github.io/M-1-Assignment-01/] 
+
 **🛠️ Tech Stack:** HTML5, CSS3
 
 
@@ -21,8 +24,11 @@ A responsive landing page built using HTML5 and CSS3 by following the provided F
 Short project description here.
 
 **🔗 Resources:** [Resource Link]
+
 **💻 Repository:** [Repository Link]
+
 **🌐 Live Demo:** [Live Link]
+
 **🛠️ Tech Stack:** Tech Stack Here
 
 ---
@@ -32,10 +38,12 @@ Short project description here.
 Short project description here.
 
 **🔗 Resources:** [Resource Link]
-**💻 Repository:** [Repository Link]
-**🌐 Live Demo:** [Live Link]
-**🛠️ Tech Stack:** Tech Stack Here
 
+**💻 Repository:** [Repository Link]
+
+**🌐 Live Demo:** [Live Link]
+
+**🛠️ Tech Stack:** Tech Stack Here
 ---
 
 ## 📚 Assignment-04 : Project Name
@@ -43,8 +51,11 @@ Short project description here.
 Short project description here.
 
 **🔗 Resources:** [Resource Link]
+
 **💻 Repository:** [Repository Link]
+
 **🌐 Live Demo:** [Live Link]
+
 **🛠️ Tech Stack:** Tech Stack Here
 
 ---
@@ -54,10 +65,12 @@ Short project description here.
 Short project description here.
 
 **🔗 Resources:** [Resource Link]
-**💻 Repository:** [Repository Link]
-**🌐 Live Demo:** [Live Link]
-**🛠️ Tech Stack:** Tech Stack Here
 
+**💻 Repository:** [Repository Link]
+
+**🌐 Live Demo:** [Live Link]
+
+**🛠️ Tech Stack:** Tech Stack Here
 ---
 
 ## 📚 Assignment-06 : Project Name
@@ -65,8 +78,11 @@ Short project description here.
 Short project description here.
 
 **🔗 Resources:** [Resource Link]
+
 **💻 Repository:** [Repository Link]
+
 **🌐 Live Demo:** [Live Link]
+
 **🛠️ Tech Stack:** Tech Stack Here
 
 ---
@@ -76,10 +92,12 @@ Short project description here.
 Short project description here.
 
 **🔗 Resources:** [Resource Link]
-**💻 Repository:** [Repository Link]
-**🌐 Live Demo:** [Live Link]
-**🛠️ Tech Stack:** Tech Stack Here
 
+**💻 Repository:** [Repository Link]
+
+**🌐 Live Demo:** [Live Link]
+
+**🛠️ Tech Stack:** Tech Stack Here
 ---
 
 ## 📚 Assignment-08 : Project Name
@@ -87,10 +105,12 @@ Short project description here.
 Short project description here.
 
 **🔗 Resources:** [Resource Link]
-**💻 Repository:** [Repository Link]
-**🌐 Live Demo:** [Live Link]
-**🛠️ Tech Stack:** Tech Stack Here
 
+**💻 Repository:** [Repository Link]
+
+**🌐 Live Demo:** [Live Link]
+
+**🛠️ Tech Stack:** Tech Stack Here
 ---
 
 ## 📚 Assignment-09 : Project Name
@@ -98,8 +118,11 @@ Short project description here.
 Short project description here.
 
 **🔗 Resources:** [Resource Link]
+
 **💻 Repository:** [Repository Link]
+
 **🌐 Live Demo:** [Live Link]
+
 **🛠️ Tech Stack:** Tech Stack Here
 
 ---
@@ -109,6 +132,9 @@ Short project description here.
 Short project description here.
 
 **🔗 Resources:** [Resource Link]
+
 **💻 Repository:** [Repository Link]
+
 **🌐 Live Demo:** [Live Link]
+
 **🛠️ Tech Stack:** Tech Stack Here
