@@ -112,6 +112,7 @@ Short project description here.
 **🌐 Live Demo:** [Live Link]
 
 **🛠️ Tech Stack:** Tech Stack Here
+
 ---
 
 ## 📚 Assignment-09 : Project Name
@@ -140,8 +141,13 @@ Short project description here.
 
 **🛠️ Tech Stack:** Tech Stack Here
 
+---
+---
 
-### 🧠 Conceptual Sessions
+# 🧠 Conceptual Sessions
+
+---
+
 📌 Milestone-01
 ## 📚 Conceptual Session-01 : Topic Name
 
