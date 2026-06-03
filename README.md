@@ -139,3 +139,67 @@ Short project description here.
 **🌐 Live Demo:** [Live Link]
 
 **🛠️ Tech Stack:** Tech Stack Here
+
+
+### 🧠 Conceptual Sessions
+📌 Milestone-01
+## 📚 Conceptual Session-01 : Topic Name
+
+Short description here.
+
+**🔗 Resources:** [Resource Link]
+
+**💻 Repository:** [Repository Link]
+
+**🌐 Live Demo:** [Live Link]
+
+**📝 Notes:** [Notes Link]
+
+## 📚 Conceptual Session-02 : Topic Name
+
+Short description here.
+
+**🔗 Resources:** [Resource Link]
+
+**💻 Repository:** [Repository Link]
+
+**🌐 Live Demo:** [Live Link]
+
+**📝 Notes:** [Notes Link]
+
+📚 Conceptual Session-03 : Topic Name
+
+Short description here.
+
+**🔗 Resources:** [Resource Link]
+
+**💻 Repository:** [Repository Link]
+
+**🌐 Live Demo:** [Live Link]
+
+**📝 Notes:** [Notes Link]
+
+📌 Milestone-02
+## 📚 Conceptual Session-01 : Topic Name
+
+Short description here.
+
+**🔗 Resources:** [Resource Link]
+
+**💻 Repository:** [Repository Link]
+
+**🌐 Live Demo:** [Live Link]
+
+**📝 Notes:** [Notes Link]
+
+## 📚 Conceptual Session-02 : Topic Name
+
+Short description here.
+
+**🔗 Resources:** [Resource Link]
+
+**💻 Repository:** [Repository Link]
+
+**🌐 Live Demo:** [Live Link]
+
+**📝 Notes:** [Notes Link]
