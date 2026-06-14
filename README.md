@@ -51,11 +51,11 @@ Short project description here.
 
 Short project description here.
 
-**🔗 Resources:** [Resource Link]
+**🔗 Resources:** [[Resource Link](https://www.figma.com/design/1Qalut8ZYms5utQettspOO/Job-Application-Tracker?node-id=1-13&p=f&t=pgbs5KvqfQtM5jPW-0)]
 
-**💻 Repository:** [Repository Link]
+**💻 Repository:** [[Repository Link](https://github.com/shariful-ire/A-04-Job-Tracker)]
 
-**🌐 Live Demo:** [Live Link]
+**🌐 Live Demo:** [[Live Link](https://shariful-ire.github.io/A-04-Job-Tracker/)]
 
 **🛠️ Tech Stack:** Tech Stack Here
 
