@@ -23,12 +23,11 @@ A responsive landing page built using HTML5 and CSS3 by following the provided F
 
 A fully responsive podcast website built using HTML5 and CSS3 (or Tailwind CSS) following the provided Figma design. The project focuses on responsive layout, modern UI design, and clean section-based structure.
 
+**🔗 Resources:** [[Resource Link](https://www.figma.com/design/oMYH7Ccj6UU8MKZwuGiAXB/KnowledgeVault---L1?node-id=1-2&p=f&t=0RpUy29SNdtBA4L9-0)]
 
-**🔗 Resources:** [[Resource Link](https://www.figma.com/design/jBORhu4ykU9vym6fd8PavL/Techwave.-.L1.2?node-id=1-40&t=dce1T1wRudPe1aez-1)]
+**💻 Repository:** [[Repository Link](https://github.com/shariful-ire/M-1-Assignment-01)]
 
-**💻 Repository:** [[Repository Link](https://github.com/shariful-ire/Assignment-02-TechWave)]
-
-**🌐 Live Demo:** [[Live Link](https://shariful-ire.github.io/Assignment-02-TechWave/)]
+**🌐 Live Demo:** [[Live Link](https://shariful-ire.github.io/M-1-Assignment-01/)]
 
 **🛠️ Tech Stack:** HTML5 and CSS3 (or Tailwind CSS)
 
