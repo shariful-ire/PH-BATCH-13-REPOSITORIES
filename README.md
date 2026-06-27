@@ -66,7 +66,7 @@ Short project description here.
 
 **🔗 Resources:** [Resource Link]
 
-**💻 Repository:** [Repository Link]
+**💻 Repository:** [[Repository Link](https://github.com/shariful-ire/B-13-A-05)]
 
 **🌐 Live Demo:** [Live Link]
 
