@@ -172,7 +172,7 @@ Short description here.
 
 **📝 Notes:** [Notes Link]
 
-📚 Conceptual Session-03 : Topic Name
+## 📚 Conceptual Session-03 : Topic Name
 
 Short description here.
 
@@ -184,7 +184,7 @@ Short description here.
 
 **📝 Notes:** [Notes Link]
 
-📌 Milestone-02
+📌 Milestone-04
 ## 📚 Conceptual Session-01 : Topic Name
 
 Short description here.
@@ -208,3 +208,18 @@ Short description here.
 **🌐 Live Demo:** [Live Link]
 
 **📝 Notes:** [Notes Link]
+
+
+# 📌 Milestone-05
+
+## 📚 Conceptual Session-01 : AI Hub
+
+A modern AI marketplace built with React, Vite, Tailwind CSS, and DaisyUI. Users can explore AI models, subscribe to their favorites, manage selected models in a cart, and enjoy a clean, responsive user experience.
+
+**🔗 Resources:** Coming Soon
+
+**💻 Repository:** [Link](https://github.com/shariful-ire/AiHub)
+
+**🌐 Live Demo:** [Live](https://ai-hub-six-sigma.vercel.app/)
+
+**📝 Notes:** This project focuses on React component architecture, state management, conditional rendering, props drilling, and responsive UI development.
