@@ -132,7 +132,7 @@ Short project description here.
 
 Short project description here.
 
-**🔗 Resources:** [Resource Link]
+**🔗 Resources:** [[Resource Link](https://co-foundry-client.vercel.app/)]
 
 **💻 Repository:** [Repository Link]
 
