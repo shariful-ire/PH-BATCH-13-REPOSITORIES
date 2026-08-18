@@ -223,3 +223,6 @@ A modern AI marketplace built with React, Vite, Tailwind CSS, and DaisyUI. Users
 **🌐 Live Demo:** [Live](https://ai-hub-six-sigma.vercel.app/)
 
 **📝 Notes:** This project focuses on React component architecture, state management, conditional rendering, props drilling, and responsive UI development.
+
+
+..
