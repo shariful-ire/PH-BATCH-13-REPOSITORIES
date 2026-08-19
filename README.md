@@ -106,9 +106,9 @@ Short project description here.
 
 **🔗 Resources:** [Resource Link]
 
-**💻 Repository:** [Repository Link]
+**💻 Repository:** [[Repository Link](https://github.com/shariful-ire/bookhive)]
 
-**🌐 Live Demo:** [Live Link]
+**🌐 Live Demo:** [[Live Link](https://bookhive-kappa-three.vercel.app/)]
 
 **🛠️ Tech Stack:** Tech Stack Here
 
