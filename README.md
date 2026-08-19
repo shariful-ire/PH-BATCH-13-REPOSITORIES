@@ -100,7 +100,7 @@ Short project description here.
 **🛠️ Tech Stack:** Tech Stack Here
 ---
 
-## 📚 Assignment-08 : Project Name
+## 📚 Assignment-08 : BookHive
 
 Short project description here.
 
